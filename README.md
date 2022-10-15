@@ -28,7 +28,7 @@ Es muy intuitiva y práctica. Cumple con su función sin tanto adorno... y lo m�
 
 ## API 
 
-* Open Exchange Rates ![https://openexchangerates.org/](https://openexchangerates.org/)
+* Open Exchange Rates [https://openexchangerates.org/](https://openexchangerates.org/)
 
 ## Aclaración
 
@@ -39,7 +39,7 @@ Al momento de clonar el repositorio, no olviden recargar para que Maven pueda in
 ## Ahora veamos la app en acción:
 
 ### Gif
-![proyectoGif]()
+![proyectoGif](https://github.com/momr01/java-conversor-OracleOne/blob/main/src/main/resources/imagenes/proyecto-conversor-gif.gif)
 
 
 ### Video de Youtube
